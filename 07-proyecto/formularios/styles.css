@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+#colorcito{
+ background-color:mediumpurple
+}
+#colorcitoo {
+    background-color: mediumslateblue;
+}
+body{
+    font-family: 'Anton', sans-serif;
+}
