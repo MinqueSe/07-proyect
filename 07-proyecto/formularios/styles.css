@@ -3,8 +3,11 @@
  background-color:mediumpurple
 }
 #colorcitoo {
-    background-color: mediumslateblue;
+    background-color:rgba(243, 227, 0, 0.699)
 }
 body{
     font-family: 'Anton', sans-serif;
+}
+#colorcitooo {
+    background-color: gold;
 }
